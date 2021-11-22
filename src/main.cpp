@@ -1,5 +1,7 @@
 extern "C"{
-    // Add the header files required to run your main 
+    #include "fib.c";
+    #include "sum.c";
+    #include "sumn.c";
 }
 
 // File for sandboxing and trying out code
